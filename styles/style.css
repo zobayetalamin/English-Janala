@@ -1,7 +1,10 @@
-.{
+*{
     font-family: "Poppins", sans-serif;
 } 
 
 .font-bangla{
     font-family: "Hind Siliguri", sans-serif;
+}
+.font-tiro{
+    font-family: "Tiro Bangla", serif;
 }
